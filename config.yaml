@@ -1,0 +1,13 @@
+training:
+  data_source: training/data/students_marks.csv
+  random_state: 42
+  test_size: 0.20
+  batch_size: 64
+  train:
+    file_name: training/data/train.csv
+  test:
+    file_name: training/data/test.csv
+  model:
+    file_name: saved_models/model.sav
+
+

@@ -9,6 +9,7 @@ This is a demo git hub repository created to showcase sample project structure i
 6. Templates for storing html and yaml files (Empty for now).
 7. Saved Models (joblib models)
 
+![image](https://user-images.githubusercontent.com/54409180/195171672-d475cb36-7c8c-4499-ae65-074524a807a2.png)
 
 ## How to run the project
 1. Clone the repository

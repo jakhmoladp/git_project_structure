@@ -9,7 +9,7 @@ This is a demo git hub repository created to showcase sample project structure i
 6. Templates for storing html and yaml files (Empty for now).
 7. Saved Models (joblib models)
 
-## ---
+
 ## How to run the project
 1. Clone the repository
 ```
@@ -28,5 +28,4 @@ pip install -r requirements.txt
 ```
 streamlit run app.py
 ```
-
-
+![image](https://user-images.githubusercontent.com/54409180/195171053-ca031c93-bca5-482c-926e-7574e6a7d6fd.png)

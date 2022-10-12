@@ -4,4 +4,3 @@ notebook
 streamlit
 sklearn
 joblib
-pathlib
